@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Tècniques de visualització de dades
 
 You can use the [editor on GitHub](https://github.com/AcademicRepos/Tecniques-visualitzacio-dades/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
